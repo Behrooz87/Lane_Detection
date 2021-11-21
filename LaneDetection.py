@@ -1,8 +1,5 @@
 ''' ............................................................................
 
-The Unit Test for Master thesis:
-"Development of a lane keeping algorithm based on computer vision for an autonomous car model"
-
 Behrooz Bonakdar Yazdi
 August 2020
 
